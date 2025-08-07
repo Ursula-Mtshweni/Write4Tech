@@ -71,3 +71,48 @@ Technical writing
    ## License
    This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
    ```
+   
+### Syntax
+
+- **Headers**: Use `#` for headings, with more hashes for subheadings:
+  ```markdown
+  # Heading 1
+  ## Heading 2
+  ### Heading 3
+  ```
+
+- **Emphasis**: Use asterisks or underscores for emphasis (bold or italic).
+  ```markdown
+  *italic* or _italic_, **bold** or __bold__
+  ```
+
+- **Lists**: Use `-` for bullet points, `1.` for numbered lists.
+  ```markdown
+  - Bullet point 1
+  - Bullet point 2
+  1. Numbered point 1
+  2. Numbered point 2
+  ```
+
+- **Code Blocks**: Indent by 4 spaces or use triple backticks for highlighting syntax.
+  ```markdown
+  code
+  here
+  ```
+
+  Or:
+
+  ```markdown
+  ```python
+  print("Hello, World!")
+  ```
+
+- **Links**: Use square brackets for the link text and parentheses for the URL.
+  ```markdown
+  [GitHub](https://github.com)
+  ```
+
+- **Images**: Use exclamation mark, square brackets for the alt text, and parentheses for the URL.
+  ```markdown
+  ![Alt text](https://example.com/image.png)
+  ```
